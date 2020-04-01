@@ -1,0 +1,1 @@
+环境为.NET FRAMEWORK v4.6.1，引用System.dll, System.Web.dll，安装Newtonsoft.Json的Nuget包即可正常运行。

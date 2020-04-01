@@ -1,0 +1,8 @@
+E:\Project\HuobiSwap\HuobiSwap\HuobiSwap\bin\Debug\HuobiSwap.exe.config
+E:\Project\HuobiSwap\HuobiSwap\HuobiSwap\bin\Debug\HuobiSwap.exe
+E:\Project\HuobiSwap\HuobiSwap\HuobiSwap\bin\Debug\HuobiSwap.pdb
+E:\Project\HuobiSwap\HuobiSwap\HuobiSwap\bin\Debug\Newtonsoft.Json.dll
+E:\Project\HuobiSwap\HuobiSwap\HuobiSwap\bin\Debug\Newtonsoft.Json.xml
+E:\Project\HuobiSwap\HuobiSwap\HuobiSwap\obj\Debug\HuobiSwap.csproj.CopyComplete
+E:\Project\HuobiSwap\HuobiSwap\HuobiSwap\obj\Debug\HuobiSwap.exe
+E:\Project\HuobiSwap\HuobiSwap\HuobiSwap\obj\Debug\HuobiSwap.pdb
